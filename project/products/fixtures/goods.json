@@ -1,0 +1,80 @@
+[
+  {
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+      "name": "Куртка зимняя Kitty",
+      "image": "products_images/Balmain.jpg",
+      "description": "",
+      "short_description": "Куртка с капюшоном любого размера на зиму Balmain.",
+      "price": "16.20",
+      "quantity": 12,
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+      "name": "Майка полосатик",
+      "image": "products_images/Casa-Blanca.jpg",
+      "description": "",
+      "short_description": "Майка в черно-белую полоску Casa Blanca.",
+      "price": "24.40",
+      "quantity": 8,
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+      "name": "Кофта с рыбкой",
+      "image": "products_images/Chanel_.jpg",
+      "description": "",
+      "short_description": "Синяя кофта с изображением рыбки Chanel.",
+      "price": "29.70",
+      "quantity": 22,
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+      "name": "Пальто с капюшоном",
+      "image": "products_images/Christian-Dior.jpg",
+      "description": "",
+      "short_description": "Вязаный свитер серого цвета Christian Dior.",
+      "price": "32.50",
+      "quantity": 14,
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+      "name": "Толстовка",
+      "image": "products_images/Gucci.jpg",
+      "description": "",
+      "short_description": "Толстовка с ушками Gucci.",
+      "price": "22.50",
+      "quantity": 9,
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+      "name": "Жакет-рубашка",
+      "image": "products_images/Versace.jpg",
+      "description": "",
+      "short_description": "Деловая жакет-рубашка Versace.",
+      "price": "35.00",
+      "quantity": 18,
+      "category": 2
+    }
+  }
+]
